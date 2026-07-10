@@ -13,6 +13,7 @@
 - 🏅 **Top-10 in 11 of 14 concluded contests** — incl. **9/687** (Telcoin), **10/609** (Octant v2), **10/475** (Mezo)
 - 🔐 **6 private audits** with [Midgar Audits](https://www.midgaraudits.xyz/) — incl. a joint engagement with [Guardian Audits](https://github.com/GuardianAudits) (Parifi)
 - 📉 **Ex-Chief Market Analyst at XTB France** — I hunt bugs in market mechanics: perps, CLOBs, lending, stablecoins
+- 🛠️ **5 private AI audit pipelines** — multi-agent, multi-provider (Claude Code · LangGraph) — [public demo](https://github.com/Aboudoc/multi-agent-audit-pipeline)
 - ✍️ Author of the [Liquity V2 deep-dive series](https://midgar.hashnode.dev/) and a [multi-agent AI code-review pipeline](https://hackenproof.com/blog/build-a-multi-agent-ai-code-review-pipeline) on the HackenProof blog
 
 ## 📂 Full track record
