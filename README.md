@@ -23,5 +23,6 @@
 
 [![X](https://img.shields.io/badge/X-@AboutikaR-000000?logo=x&logoColor=white)](https://x.com/AboutikaR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reda_Aboutika-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-aboutika)
-
-[Code4rena](https://code4rena.com/@EVDoc) · [Cantina](https://cantina.xyz/u/EVDoc) · [HackenProof](https://hackenproof.com/hackers/EVDoc)
+[![Code4rena](https://img.shields.io/badge/Code4rena-EVDoc-2b3137)](https://code4rena.com/@EVDoc)
+[![Cantina](https://img.shields.io/badge/Cantina-EVDoc-2b3137)](https://cantina.xyz/u/EVDoc)
+[![HackenProof](https://img.shields.io/badge/HackenProof-EVDoc-2b3137)](https://hackenproof.com/hackers/EVDoc)
